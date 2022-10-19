@@ -13,7 +13,13 @@
     },
     "categories": {
       "function": {
-        "awsNextAmplifyFunction": {}
+        "awsNextAmplifyFunction": {
+          "deploymentBucketName": "amplify-awsnextamplify-dev-73127-deployment",
+          "s3Key": "amplify-builds/awsNextAmplifyFunction-54504f32724f6b737266-build.zip"
+        }
+      },
+      "api": {
+        "awsNextAmplifyBackend": {}
       }
     }
   }
